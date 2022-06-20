@@ -180,6 +180,7 @@ h1, h2, h3, h4, h5, h6 {
 .right {
   position: relative;
 }
+
 .header {
   padding: 50px 0 0 0;
   position: absolute;
@@ -197,8 +198,8 @@ h1, h2, h3, h4, h5, h6 {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-flex: 0;
-      -ms-flex: 0 1 80%;
-          flex: 0 1 80%;
+      -ms-flex: 0 1 70%;
+          flex: 0 1 70%;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -209,8 +210,8 @@ h1, h2, h3, h4, h5, h6 {
 .header__logo {
   text-align: left;
   -webkit-box-flex: 0;
-      -ms-flex: 0 1 20%;
-          flex: 0 1 20%;
+      -ms-flex: 0 1 30%;
+          flex: 0 1 30%;
 }
 
 .menu__list {
